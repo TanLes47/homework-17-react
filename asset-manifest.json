@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cursor-homework-tanya/homework_17/static/css/main.4535515e.chunk.css",
-    "main.js": "/cursor-homework-tanya/homework_17/static/js/main.b8baab4d.chunk.js",
-    "main.js.map": "/cursor-homework-tanya/homework_17/static/js/main.b8baab4d.chunk.js.map",
-    "runtime-main.js": "/cursor-homework-tanya/homework_17/static/js/runtime-main.54d7ef57.js",
-    "runtime-main.js.map": "/cursor-homework-tanya/homework_17/static/js/runtime-main.54d7ef57.js.map",
-    "static/js/2.1b331540.chunk.js": "/cursor-homework-tanya/homework_17/static/js/2.1b331540.chunk.js",
-    "static/js/2.1b331540.chunk.js.map": "/cursor-homework-tanya/homework_17/static/js/2.1b331540.chunk.js.map",
-    "static/js/3.2cacd107.chunk.js": "/cursor-homework-tanya/homework_17/static/js/3.2cacd107.chunk.js",
-    "static/js/3.2cacd107.chunk.js.map": "/cursor-homework-tanya/homework_17/static/js/3.2cacd107.chunk.js.map",
-    "index.html": "/cursor-homework-tanya/homework_17/index.html",
-    "static/css/main.4535515e.chunk.css.map": "/cursor-homework-tanya/homework_17/static/css/main.4535515e.chunk.css.map",
-    "static/js/2.1b331540.chunk.js.LICENSE.txt": "/cursor-homework-tanya/homework_17/static/js/2.1b331540.chunk.js.LICENSE.txt"
+    "main.css": "/homework-17-react/static/css/main.4535515e.chunk.css",
+    "main.js": "/homework-17-react/static/js/main.b8baab4d.chunk.js",
+    "main.js.map": "/homework-17-react/static/js/main.b8baab4d.chunk.js.map",
+    "runtime-main.js": "/homework-17-react/static/js/runtime-main.2c5d42e0.js",
+    "runtime-main.js.map": "/homework-17-react/static/js/runtime-main.2c5d42e0.js.map",
+    "static/js/2.1b331540.chunk.js": "/homework-17-react/static/js/2.1b331540.chunk.js",
+    "static/js/2.1b331540.chunk.js.map": "/homework-17-react/static/js/2.1b331540.chunk.js.map",
+    "static/js/3.2cacd107.chunk.js": "/homework-17-react/static/js/3.2cacd107.chunk.js",
+    "static/js/3.2cacd107.chunk.js.map": "/homework-17-react/static/js/3.2cacd107.chunk.js.map",
+    "index.html": "/homework-17-react/index.html",
+    "static/css/main.4535515e.chunk.css.map": "/homework-17-react/static/css/main.4535515e.chunk.css.map",
+    "static/js/2.1b331540.chunk.js.LICENSE.txt": "/homework-17-react/static/js/2.1b331540.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54d7ef57.js",
+    "static/js/runtime-main.2c5d42e0.js",
     "static/js/2.1b331540.chunk.js",
     "static/css/main.4535515e.chunk.css",
     "static/js/main.b8baab4d.chunk.js"
